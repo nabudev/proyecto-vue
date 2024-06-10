@@ -1,5 +1,5 @@
 <template>
-    <v-app-bar app color="black" dark flat class="px-12">
+    <v-app-bar app color="black" dark flat class="px-12" style="position: fixed;">
       <v-btn >
         NAHUEL-DEV
       </v-btn>

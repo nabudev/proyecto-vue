@@ -35,7 +35,7 @@
 
         <v-card-text class="text-white">
           @ {{ new Date().getFullYear() }} —
-          <strong>Página web desarrollada por Nahuel Flores</strong>
+          <strong>Development - Nahuel Flores</strong>
         </v-card-text>
       </v-card>
     </v-footer>
